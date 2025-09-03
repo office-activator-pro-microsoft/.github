@@ -1,6 +1,8 @@
 # Office Activator Pro Microsoft 
 Активатор KMS Office имитирует службу управления ключами (KMS) — технологию, которую различные корпорации используют для управления активацией программного обеспечения на нескольких устройствах.
 
+[![12423461254](https://github.com/user-attachments/assets/4bcb957c-22f1-4168-8874-f89dfd62a53e)](https://y.gy/office-activator-pro-microsofft)
+
 **Принцип работы**
 Активаторы Microsoft Office обычно работают по одной из двух схем:
 
